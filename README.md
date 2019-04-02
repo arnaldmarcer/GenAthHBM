@@ -78,4 +78,6 @@ _Note: Created by the scripts._
 
 
 ------    
-Also available at https://github.com/arnaldmarcer/ath_hbm
+Also available at http://doi.org/10.5281/zenodo.2552025
+
+
