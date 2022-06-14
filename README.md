@@ -7,7 +7,7 @@ output:
 ## DATA AND CODE FOR THE ARTICLE:
 
 Martínez-Minaya J., Conesa D., Fortin M-J., Alonso-Blanco C., Picó F. X. and Marcer A. (2019) **A hierarchical Bayesian Beta regression approach to study the effects of geographic genetic structure and spatial autocorrelation on species distribution range shifts.** 
-_Molecular Ecology Resources_.
+_Molecular Ecology Resources_ 19:929–943. https://doi.org/10.1111/1755-0998.13024
 
 
 ### DIRECTORY STRUCTURE
